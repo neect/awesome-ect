@@ -19,7 +19,8 @@ This list is going to have two main sections:
 * [nunuStudio](https://github.com/tentone/nunuStudio) is a web based game engine for 3D and 2D game development with support for VR and AR.
 * [gameboyGO](https://github.com/gonccalo/gameboyGO) Gameboy emulator in go.
 * [markovitter](https://github.com/bnan/markovitter) Generate quotes for an arbitrary Twitter account by training a Markov Chain. 
-
+* [libpcapy](https://github.com/alagoa/libpcapy) Python library to use libpcap using ctypes
+* [Sensation](https://github.com/nmssilva/sensation) Everyday is a new sensation... What's the sensation for today? ✨✨ http://nmssilva.github.io/sensation
 
 ## Class Projects
 * [Zeno](https://github.com/alagoa/youtube-or-pornhub) is a tool that, by analyzing the traffic of a given network, can detect what service is being used.
