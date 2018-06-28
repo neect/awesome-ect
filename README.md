@@ -20,7 +20,7 @@ This list is going to have two main sections:
 * [gameboyGO](https://github.com/gonccalo/gameboyGO) Gameboy emulator in go.
 * [markovitter](https://github.com/bnan/markovitter) Generate quotes for an arbitrary Twitter account by training a Markov Chain. 
 * [libpcapy](https://github.com/alagoa/libpcapy) Python library to use libpcap using ctypes
-* [Sensation](https://github.com/nmssilva/sensation) Everyday is a new sensation... What's the sensation for today? ✨✨ http://nmssilva.github.io/sensation
+* [Sensation](https://github.com/nmssilva/sensation) Everyday is a new sensation... What's the sensation for today? ✨✨
 
 ## Class Projects
 * [Zeno](https://github.com/alagoa/youtube-or-pornhub) is a tool that, by analyzing the traffic of a given network, can detect what service is being used.
